@@ -2,11 +2,11 @@
 
 ## Main Topics: 
 
-- forms in HTML and various types of inputs. 
-
-- responsiveness 
-
 - Grid in CSS 
+
+- Responsiveness 
+
+- forms in HTML and various types of inputs. 
 
 - Transitions to animations to make our task even more robust.
 
