@@ -1,6 +1,6 @@
 # Work Components
 
-## Main Topics: 
+### Main Topics: 
 
 - Grid in CSS 
 
@@ -9,6 +9,7 @@
 - forms in HTML and various types of inputs. 
 
 - Transitions to animations to make our task even more robust.
+
 
 <a href="https://codepen.io/lucasmoraesdev/full/gOKmOPQ">**Try on CodePen!**</a>
 
