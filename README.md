@@ -2,13 +2,13 @@
 
 ## Main Topics: 
 
-### forms in HTML and various types of inputs. 
+#forms in HTML and various types of inputs. 
 
-### responsiveness 
+#responsiveness 
 
-### Grid in CSS 
+#Grid in CSS 
 
-###  transitions to animations to make our task even more robust.
+#Transitions to animations to make our task even more robust.
 
 <a href="https://codepen.io/lucasmoraesdev/full/gOKmOPQ">**Try on CodePen!**</a>
 
